@@ -1,4 +1,4 @@
-# LGMVIP_TASK1_Music-Recommendation-System
+# Music-Recommendation-System
 # By using music recommender system, 
 The music provider can predict and then offer the appropriate songs to their users based on the characteristics of the music that has been heard previously.
 ![grl](https://user-images.githubusercontent.com/83866738/133868857-d6df01b9-5766-448b-a812-cf30250949fa.png)
